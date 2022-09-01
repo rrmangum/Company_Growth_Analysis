@@ -1,6 +1,6 @@
 # Company_Growth_Analysis
 
-This analysis uses Prophet to conduct a time series analysis and forecast of a company's growth. The analysis considers Google search trends, company stock price, and sales revenue.
+This analysis uses Prophet to conduct a time series analysis and forecast of a company's growth. The analysis includes Google search trends, company stock price, and sales revenue.
 
 ---
 
